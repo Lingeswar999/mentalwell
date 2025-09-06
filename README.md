@@ -22,7 +22,8 @@ All shadcn/ui components have been downloaded under `@/components/ui`.
 - `src/main.tsx` - Project entry point
 - `src/index.css` - Existing CSS configuration
 - `src/pages/Index.tsx` - Home page logic
-
+## live demo
+Try it a live demo
 ## Components
 
 - All shadcn/ui components are pre-downloaded and available at `@/components/ui`
