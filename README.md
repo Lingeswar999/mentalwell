@@ -23,7 +23,7 @@ All shadcn/ui components have been downloaded under `@/components/ui`.
 - `src/index.css` - Existing CSS configuration
 - `src/pages/Index.tsx` - Home page logic
 ## live demo
-https://mgx-w5sx2ulb2ps.mgx.world/resources 
+https://mgx-w5sx2ulb2ps.mgx.world/ 
 ## Components
 
 - All shadcn/ui components are pre-downloaded and available at `@/components/ui`
